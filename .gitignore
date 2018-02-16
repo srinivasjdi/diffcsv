@@ -9,6 +9,8 @@ __pycache__/
 # Distribution / packaging
 .Python
 env/
+bin/
+include/
 build/
 develop-eggs/
 dist/
@@ -99,3 +101,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+pip-selfcheck.json
+.gitignore
